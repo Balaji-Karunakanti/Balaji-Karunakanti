@@ -26,8 +26,10 @@
 ---
 
 
+
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaji-karunakanti&show_icons=true&theme=default&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaji-karunakanti&show_icons=true)
+
 
 
 ---
